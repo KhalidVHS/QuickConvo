@@ -1,0 +1,28 @@
+a.button-about {
+  position: absolute;
+  color: #000;
+  text-decoration: none;
+	background: rgba(0,0,125,0.0);
+	margin: 10px 0 0 10px;
+	padding: .7em 1.5em;
+	outline: none;
+	border:1px solid #000;
+	-webkit-border-radius:5%;
+  -moz-border-radius:5%;
+
+}
+
+a.button-about:hover {
+	background:rgba(255,255,255,0.3);
+	color:#000;
+	border:1px solid rgba(255,255,255,0.8);
+	-webkit-border-radius:5%;
+	-moz-border-radius:5%;
+}
+
+a.button-about:active {
+	background:rgba(255,255,255,0.3);
+	border:1px solid #000;
+	-webkit-border-radius:5%;
+	-moz-border-radius:5%;
+  }
